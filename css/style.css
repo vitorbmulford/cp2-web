@@ -41,7 +41,7 @@ body {
 .botao {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin: 0px 10px 0px 50px;
 }
 .botao a {
   color: white;
