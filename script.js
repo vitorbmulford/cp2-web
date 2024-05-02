@@ -39,6 +39,6 @@ mudarCor.addEventListener("click", () => {
   }
 });
 
-// window.addEventListener("load", function () {
-//   alert("Bem-vindo à nossa página!");
-// });
+window.addEventListener("load", function () {
+  alert("Bem-vindo à nossa página!");
+});
