@@ -33,3 +33,9 @@ Instruções de Execução
 Faça o clone deste repositório para o seu ambiente local.
 Abra o projeto no VS-Code.
 Execute o arquivo index.html no seu navegador da web.
+
+Link do Repositorio:
+https://github.com/vitorbmulford/cp2-web
+
+Link do gitPages:
+https://vitorbmulford.github.io/cp2-web/index.html
