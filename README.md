@@ -3,7 +3,7 @@ Este projeto foi desenvolvido com os seguintes membros:
 
 RM555206 - Milton Cezar Backanieski
 RM555026 - Vitor Bebiano Mulford
-RM4901 - Lorenzo Haiashi Mangini
+RM54901 - Lorenzo Hayashi Mangini
 
 Bikecity
 Descrição do Projeto
