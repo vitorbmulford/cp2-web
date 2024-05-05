@@ -11,17 +11,17 @@
       <p>Login</p>
       <form>
         <div class="user-box">
-          <input required="" name="usuario" type="text" />
+          <input required="" id="usuario" type="text" />
           <label>Email</label>
         </div>
         <div class="user-box">
-          <input required="" name="senha" type="password" />
+          <input required="" id="senha" type="password" />
           <label>Password</label>
         </div>
-        <a id="submit" class="submit">Submit</a>
+        <!-- Adicionei o evento onclick aqui -->
+        <a id="submit" class="submit" onclick="validar()">Submit</a>
       </form>
     </div>
-
-    <script src="login.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
